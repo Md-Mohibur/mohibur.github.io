@@ -7,7 +7,7 @@
     display: none;
 }
 .full-webpage{
-    background:linear-gradient(rgba(0, 0, 0, 0.514), rgba(0, 0, 0, 0.56)), url(/images/bg.jpg);
+    background:linear-gradient(rgba(0, 0, 0, 0.514), rgba(0, 0, 0, 0.56)), url(bg.jpg);
     background-size: cover;
     height: 100vh;
 }
